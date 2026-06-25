@@ -9,30 +9,33 @@ Hands-on Data Scientist with **5+ years of applied ML and AI experience**, speci
 
 ## 🧠 ML & Modelling
 
-`Scikit-learn` · `TensorFlow` · `PyTorch` · `Neural Networks` · `Random Forest` · `Regression` · `Classification` · `Clustering` · `Time Series Forecasting`
+`Scikit-learn` · `TensorFlow` · `PyTorch` · `Neural Networks` · `Random Forest` · `Regression` · `Classification` · `Clustering` · `Time Series Forecasting`· `Deep Learning` · `XGBoost` · `LightGBM` · `Support Vector Machines (SVM)` · `Predictive Modelling` · `Hyperparameter Tuning` · `Dimensionality Reduction (PCA)`
 
 ## 🗣️ NLP & AI
 
-`NLP` · `Sentiment Analysis` · `Text Classification` · `LLM Pipeline Design` · `LLM Finetuning` · `Prompt Engineering` · `RAG` · `LangChain`
+`NLP` · `Sentiment Analysis` · `Text Classification` · `LLM Pipeline Design` · `LLM Finetuning` · `Prompt Engineering` · `RAG(Retrieval-Augmented Generation)` · `LangChain` · `LlamaIndex` · `Hugging Face` · `OpenAI API` · `Vector Databases (Pinecone, ChromaDB)` · `Word Embeddings` · `Semantic Search`
 
 ## 💻 Programming & Data Engineering
 
-`Python` · `SQL` · `PostgreSQL` · `MySQL` · `MongoDB` · `Google BigQuery`  
-`ETL Pipeline Design` · `Feature Engineering` · `Data Cleaning & Transformation` · `API Integration` · `Apache Spark` · `GCP`
+`Python` · `SQL` · `PostgreSQL` · `MySQL` · `MongoDB` · `Google BigQuery` · `Data Wrangling` · `Snowflake` · `Databricks` · `Apache Airflow` · `ETL / ELT Pipeline Design` · `ETL Pipeline Design` · `Feature Engineering` · `Data Cleaning & Transformation` · `API Integration` · `Apache Spark` · `GCP`
+
 
 ## 📊 Data Visualisation & BI
 
-`Power BI` · `Tableau` · `Plotly` · `Matplotlib` · `Seaborn` · `Data Storytelling` · `Executive Reporting`
+`Power BI` · `Tableau` · `Plotly` · `Matplotlib` · `Seaborn` · `Data Storytelling` · `Executive Reporting` · `KPI Dashboarding`
 
 ## 🛠️ Tools & Platforms
 
 `Git` · `GitHub` · `Docker` · `Jupyter` · `VS Code` · `Linux` · `Google Cloud Platform`
 
+## 📐 Mathematics & Statistics
+`Statistical Analysis` · `Hypothesis Testing` · `A/B Testing` · `Probability Distributions` · `Linear Algebra` · `Calculus for ML` · `Experiment Design`
+
 ---
 
 ## 🎯 About Me
 
-I build ML systems that work in production — from designing data pipelines that process and enrich large datasets, to developing predictive models that improve accuracy over time. I care about the full lifecycle: clean data in, reliable models out, clear insights delivered to stakeholders.
+I build ML systems that work in production, from designing data pipelines that process and enrich large datasets, to developing predictive models that improve accuracy over time. I care about the full lifecycle: clean data in, reliable models out, clear insights delivered to stakeholders.
 
 Some highlights from my work:
 - 📈 Built **automated ML retraining workflows** improving prediction accuracy by 18%
@@ -51,13 +54,6 @@ Some highlights from my work:
 - ☁️ **Azure & AWS** cloud certifications for scalable ML deployment
 - ⚙️ **MLOps** — model versioning, monitoring, and CI/CD pipelines for reliable production ML
 
----
-
-## 📊 GitHub Stats
-
-![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrRezamo&show_icons=true&theme=default&hide_border=true&title_color=01696f&icon_color=01696f&text_color=28251d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRezamo&layout=compact&hide_border=true&title_color=01696f&text_color=28251d)
 
 ---
 
