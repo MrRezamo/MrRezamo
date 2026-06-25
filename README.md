@@ -1,7 +1,7 @@
 # Hi, I'm Reza Sharifi 👋
 ### Data Scientist · Machine Learning · NLP · Data Pipelines
 
-Hands-on Data Scientist with **3+ years of applied ML and AI experience**, specialising in **machine learning, NLP, and end-to-end data pipelines**. Built and deployed predictive ML models, NLP systems, and scalable ETL pipelines that deliver measurable business outcomes. Strong client-facing background, 9 years translating complex data solutions into clear business value across international environments.
+Hands-on Data Scientist with **5+ years of applied ML and AI experience**, specialising in **machine learning, NLP, and end-to-end data pipelines**. Built and deployed predictive ML models, NLP systems, and scalable ETL pipelines that deliver measurable business outcomes. Strong client-facing background, 9 years translating complex data solutions into clear business value across international environments.
 
 📍 Amsterdam, Netherlands · 🇬🇧 English (Fluent) · 🇳🇱 Dutch (B1) · 🇮🇷 Persian (Native)
 
@@ -17,7 +17,7 @@ Hands-on Data Scientist with **3+ years of applied ML and AI experience**, speci
 
 ## 💻 Programming & Data Engineering
 
-`Python` · `SQL` · `R` · `PostgreSQL` · `MySQL` · `MongoDB` · `Google BigQuery`  
+`Python` · `SQL` · `PostgreSQL` · `MySQL` · `MongoDB` · `Google BigQuery`  
 `ETL Pipeline Design` · `Feature Engineering` · `Data Cleaning & Transformation` · `API Integration` · `Apache Spark` · `GCP`
 
 ## 📊 Data Visualisation & BI
